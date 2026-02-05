@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F1F2AA7D-545A-4C0E-9FBC-B5FD5D1A2796}</ProjectGuid>
+    <ProjectGuid>{DF5F1433-23F0-473E-8BF0-FF2A0C606D82}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>A2ClassWork25_26</RootNamespace>
-    <AssemblyName>A2ClassWork25-26</AssemblyName>
+    <RootNamespace>OOPEx_Done</RootNamespace>
+    <AssemblyName>OOPEx-Done</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Scratch.cs" />
+    <Compile Include="OOPDone.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
