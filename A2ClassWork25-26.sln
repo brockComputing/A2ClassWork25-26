@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B-Skel", "B-Skel\B-Skel.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Skel", "E-Skel\E-Skel.csproj", "{93F2AE4F-36B9-4176-BC85-CF27DE532207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skel-Scratch", "Skel-Scratch\Skel-Scratch.csproj", "{BE16898A-A60D-4EB8-AD21-A2B163F7CB47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{93F2AE4F-36B9-4176-BC85-CF27DE532207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93F2AE4F-36B9-4176-BC85-CF27DE532207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93F2AE4F-36B9-4176-BC85-CF27DE532207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE16898A-A60D-4EB8-AD21-A2B163F7CB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE16898A-A60D-4EB8-AD21-A2B163F7CB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE16898A-A60D-4EB8-AD21-A2B163F7CB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE16898A-A60D-4EB8-AD21-A2B163F7CB47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
